@@ -1,2 +1,5 @@
 test.sqlite
 training.sqlite
+data/*
+class1.docx
+
